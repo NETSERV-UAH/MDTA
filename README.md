@@ -1,4 +1,4 @@
 # MDTA
-Source code of MDTA algorithm
+Source code and experiment results data of MDTA algorithm.
 
-Netsis research group. Universidad de Alcalá
+NetSis research group. Universidad de Alcalá
